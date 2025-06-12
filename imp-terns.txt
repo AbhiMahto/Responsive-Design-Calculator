@@ -1,0 +1,9 @@
+width: percentage always;
+height: 100vh(viewport height);
+
+25=y
+17=Q
+13=M
+12=L
+3=C
+19=S
